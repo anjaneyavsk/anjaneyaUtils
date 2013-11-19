@@ -11,7 +11,5 @@ public class SampleGenerics {
 		for(E obj : objs){
 			log.info(obj.toString());
 		}
-		
 	}
-
 }
